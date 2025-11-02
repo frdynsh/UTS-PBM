@@ -1,5 +1,5 @@
-name: card_animal
-description: "A new Flutter project."
+name: animalgalleryapp
+description: "Aplikasi ini dibuat sebagai Projek Ujian Tengah Semester (UTS) untuk mata kuliah Pemrograman Berbasis Mobile (PBM). Aplikasi ini menampilkan kumpulan gambar hewan dalam bentuk slider interaktif, yang dapat diganti menggunakan tombol navigasi panah kiri dan kanan. Sumber gambar berasal dari lokal (assets) dan internet (online URL)."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
